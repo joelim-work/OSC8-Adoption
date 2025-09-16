@@ -53,6 +53,7 @@ Support
 
 ### Apps
 - [Cargo](https://doc.rust-lang.org/stable/cargo/): Since [v1.75.0](https://github.com/rust-lang/cargo/blob/dcbc5248361c0863201b4130edd1e919928a3d23/CHANGELOG.md#cargo-175-2023-12-28)
+- [`column`](https://man7.org/linux/man-pages/man1/column.1.html): Since [`util-linux` v2.41-start](https://github.com/util-linux/util-linux/releases/tag/v2.41-start) (2025-02-18) ([#3371](https://github.com/util-linux/util-linux/pull/3371]))
 - [Delta](https://github.com/dandavison/delta): Since [v0.4](https://github.com/dandavison/delta/releases/tag/0.4.0) (2020-08-04), for linking to files and GitHub commits
 - [Emacs](https://www.gnu.org/software/emacs/): Since [28.1](https://www.gnu.org/software/emacs/news/NEWS.28.1) (2022-04-04)
 - [`eza`](https://eza.rocks/): (successor to [`exa`](https://github.com/ogham/exa/issues/396#issuecomment-1834264733)): Since version [v0.10.3](https://github.com/eza-community/eza/releases/tag/v0.10.3) (2023-07-31)
