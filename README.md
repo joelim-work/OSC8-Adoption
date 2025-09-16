@@ -52,22 +52,22 @@ Support
 - [Zellij](https://github.com/zellij-org/zellij): since [v0.21.0](https://github.com/zellij-org/zellij/releases/tag/v0.21.0) (2021-11-29)
 
 ### Apps
-- [Neovim](https://neovim.io/): latest version supports rendering texts with hyperlinks (since [this PR](https://github.com/neovim/neovim/pull/27109)).
+- [Cargo](https://doc.rust-lang.org/stable/cargo/): Since [v1.75.0](https://github.com/rust-lang/cargo/blob/dcbc5248361c0863201b4130edd1e919928a3d23/CHANGELOG.md#cargo-175-2023-12-28)
+- [Delta](https://github.com/dandavison/delta): Since [v0.4](https://github.com/dandavison/delta/releases/tag/0.4.0) (2020-08-04), for linking to files and GitHub commits
 - [Emacs](https://www.gnu.org/software/emacs/): Since [28.1](https://www.gnu.org/software/emacs/news/NEWS.28.1) (2022-04-04)
 - [`eza`](https://eza.rocks/): (successor to [`exa`](https://github.com/ogham/exa/issues/396#issuecomment-1834264733)): Since version [v0.10.3](https://github.com/eza-community/eza/releases/tag/v0.10.3) (2023-07-31)
-- [`lc --hyperlink`](https://github.com/c-blake/lc): (Nim-based file lister): Since July 2019
-- [GCC](https://gcc.gnu.org/): Since version 10 (and [greatly expanded in version 14](https://gcc.gnu.org/pipermail/gcc-patches/2023-November/635186.html) and [further in version 15](https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=5a022062d22e0bd6f8bb650ca109b0ca2d093796)), for [diagnostic messages to point to the documentation](https://gcc.gnu.org/onlinedocs/gcc-10.1.0/gcc/Diagnostic-Message-Formatting-Options.html#index-fdiagnostics-urls).
-- [Delta](https://github.com/dandavison/delta): Since [v0.4](https://github.com/dandavison/delta/releases/tag/0.4.0) (2020-08-04), for linking to files and GitHub commits
 - [`fd --hyperlink[=always/auto/never]`](https://github.com/sharkdp/fd): Since [v10.2.0](https://github.com/sharkdp/fd/releases/tag/v10.2.0) (2024-08-23)
 - [`fzf`](https://github.com/junegunn/fzf): Since [v0.55.0](https://github.com/junegunn/fzf/releases/tag/v0.55.0) (2024-08-29)
-- [groff](https://www.gnu.org/software/groff/): Since [1.23.0](https://git.savannah.gnu.org/cgit/groff.git/tag/?h=1.23.0) (2023-07-05), for links in `roff` documents, including man pages.
+- [GCC](https://gcc.gnu.org/): Since version 10 (and [greatly expanded in version 14](https://gcc.gnu.org/pipermail/gcc-patches/2023-November/635186.html) and [further in version 15](https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=5a022062d22e0bd6f8bb650ca109b0ca2d093796)), for [diagnostic messages to point to the documentation](https://gcc.gnu.org/onlinedocs/gcc-10.1.0/gcc/Diagnostic-Message-Formatting-Options.html#index-fdiagnostics-urls).
+- [Groff](https://www.gnu.org/software/groff/): Since [1.23.0](https://git.savannah.gnu.org/cgit/groff.git/tag/?h=1.23.0) (2023-07-05), for links in `roff` documents, including man pages.
+- [`lc --hyperlink`](https://github.com/c-blake/lc): (Nim-based file lister): Since July 2019
 - [`less -R`](http://greenwoodsoftware.com/less/): since [v566](https://github.com/gwsw/less/commit/0f810ef16781bf0f59690be63af876bddabf68bf) (2020-11-25)
 - [`ls --hyperlink[=always/auto/never]`](https://www.gnu.org/software/coreutils/manual/html_node/ls-invocation.html#ls-invocation): since [`coreutils` v8.28](https://github.com/coreutils/coreutils/blob/v8.28/NEWS#L88-L89) (2017-09-02).
 - [`lsd --hyperlink[=always/auto/never]`](https://github.com/Peltoche/lsd/): since lsd 0.22 (2022-04).
 - [Matterhorn](https://github.com/matterhorn-chat/matterhorn) chat client: Since version 40400.0.0.
-- [cargo](https://doc.rust-lang.org/stable/cargo/): Since [v1.75.0](https://github.com/rust-lang/cargo/blob/dcbc5248361c0863201b4130edd1e919928a3d23/CHANGELOG.md#cargo-175-2023-12-28)
 - [mdcat](https://github.com/lunaryorn/mdcat) (markdown cat): Since version 0.5.0.
 - [moar](https://github.com/walles/moar) (pager, `less` replacement): Since version [v1.14.0](https://github.com/walles/moar/releases/tag/v1.14.0) (2023-05-03)
+- [Neovim](https://neovim.io/): latest version supports rendering texts with hyperlinks (since [this PR](https://github.com/neovim/neovim/pull/27109)).
 - [ripgrep](https://github.com/BurntSushi/ripgrep): Since [v14.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0) (2023-11-27)
 - [Symfony](https://symfony.com/): Since version 4.3.
 - [systemd](https://github.com/systemd/systemd): Since version 239.
