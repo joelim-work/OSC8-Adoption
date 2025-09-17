@@ -37,6 +37,7 @@ Support
   - [GNOME Console](https://apps.gnome.org/Console/) 46.0 (hover, copy, open)
   - [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) 3.26 (hover, copy, open)
   - [Guake](http://guake-project.org/) 3.2.1
+  - [MATE Terminal](https://github.com/mate-desktop/mate-terminal): since [v1.28.0](https://github.com/mate-desktop/mate-terminal/releases/tag/v1.28.0) (2024-02-19)
   - [ROXTerm](https://github.com/realh/roxterm) 3.5.1
   - [Terminator](https://github.com/gnome-terminator/terminator)[^2]: since [v2.0](https://github.com/gnome-terminator/terminator/blob/v2.0/CHANGELOG.md) (2020-10-07)
   - [Tilix](https://github.com/gnunn1/tilix) 1.5.8
@@ -89,7 +90,6 @@ Pending feature requests
 - `VTE`-based:
   - [LilyTerm](https://github.com/Tetralet/LilyTerm/issues/117)
   - [LXDE Terminal](https://sourceforge.net/p/lxde/bugs/870/)
-  - [MATE Terminal](https://github.com/mate-desktop/mate-terminal/issues/175)
   - [Tilda](https://github.com/lanoxx/tilda/issues/285)
 
 ### Terminal multiplexers
