@@ -66,10 +66,10 @@ Support
 - [`less -R`](http://greenwoodsoftware.com/less/): since [v566](https://github.com/gwsw/less/commit/0f810ef16781bf0f59690be63af876bddabf68bf) (2020-11-25)
 - [`ls --hyperlink[=always/auto/never]`](https://www.gnu.org/software/coreutils/manual/html_node/ls-invocation.html#ls-invocation): since [`coreutils` v8.28](https://github.com/coreutils/coreutils/blob/v8.28/NEWS#L88-L89) (2017-09-02).
 - [`lsd --hyperlink[=always/auto/never]`](https://github.com/Peltoche/lsd/): since lsd 0.22 (2022-04).
-- [Matterhorn](https://github.com/matterhorn-chat/matterhorn) chat client: Since version 40400.0.0.
+- [Matterhorn](https://github.com/matterhorn-chat/matterhorn) (chat client): Since version 40400.0.0.
 - [mdcat](https://github.com/lunaryorn/mdcat) (markdown cat): Since version 0.5.0.
 - [moor](https://github.com/walles/moor) (pager, `less` replacement): Since version [v1.14.0](https://github.com/walles/moor/releases/tag/v1.14.0) (2023-05-03)
-- [Mudlet](https://www.mudlet.org/) client for playing multi-user dungeons (MUDs): Since version [4.20.0](https://github.com/Mudlet/Mudlet/releases/tag/Mudlet-4.20.0), [wiki](https://wiki.mudlet.org/w/Manual:Supported_Protocols#OSC_8:_Hyperlink_Protocol)
+- [Mudlet](https://www.mudlet.org/) (cross-platform [MUD](https://en.wikipedia.org/wiki/Multi-user_dungeon) client): Since version [4.20.0](https://github.com/Mudlet/Mudlet/releases/tag/Mudlet-4.20.0) ([wiki](https://wiki.mudlet.org/w/Manual:Supported_Protocols#OSC_8:_Hyperlink_Protocol))
 - [Neovim](https://neovim.io/): latest version supports rendering texts with hyperlinks (since [this PR](https://github.com/neovim/neovim/pull/27109)).
 - [ripgrep](https://github.com/BurntSushi/ripgrep): Since [v14.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0) (2023-11-27)
 - [Symfony](https://symfony.com/): Since version 4.3.
@@ -78,10 +78,10 @@ Support
 
 
 ### Libraries
-- [`ansi_up`](https://github.com/drudru/ansi_up/) ANSI code-to-HTML conversion library: Since [v4.0.3](https://github.com/drudru/ansi_up/releases/tag/v4.0.3) (2019-02-12)
-- [`brick`](https://hackage.haskell.org/package/brick) high-level terminal UI library: Since October 2017.
-- [Rich](https://github.com/willmcgugan/rich) rich-text formatting library: Since May 2020.
-- [`vty`](https://hackage.haskell.org/package/vty) medium-level terminal UI library: Since October 2017.
+- [`ansi_up`](https://github.com/drudru/ansi_up/) (ANSI code-to-HTML conversion library): Since [v4.0.3](https://github.com/drudru/ansi_up/releases/tag/v4.0.3) (2019-02-12)
+- [`brick`](https://hackage.haskell.org/package/brick) (high-level terminal UI library): Since October 2017.
+- [Rich](https://github.com/willmcgugan/rich) (rich-text formatting library): Since May 2020.
+- [`vty`](https://hackage.haskell.org/package/vty) (medium-level terminal UI library): Since October 2017.
 
 
 Pending feature requests
